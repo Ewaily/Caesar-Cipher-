@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531095541 source:c:\users\muham\desktop\caeser cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
